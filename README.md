@@ -1,1 +1,1 @@
-# langchain-medical-bot
+# financial-chatbot
